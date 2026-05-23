@@ -1,0 +1,111 @@
+.product {
+  width: 260px;
+  background: #ffffff;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+  transition: all 0.3s ease;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+}
+
+.product:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.18);
+}
+
+/* IMAGE */
+.img {
+  width: 100%;
+  height: 170px;
+  overflow: hidden;
+}
+
+.img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.product:hover .img img {
+  transform: scale(1.08);
+}
+
+/* DETAILS */
+.product-details {
+  padding: 14px;
+  text-align: center;
+}
+
+.product-details h3 {
+  font-size: 18px;
+  margin: 8px 0;
+  color: #333;
+}
+
+.product-details p {
+  margin: 5px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+/* PRICE STYLE */
+.product-details p:first-of-type {
+  font-weight: bold;
+  color: #2e7d32;
+}
+
+/* BUTTON */
+.cart-btn {
+  margin-top: 10px;
+  padding: 10px 15px;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.cart-btn {
+  padding: 10px 14px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  width: 100%;
+}
+
+/* ADD BUTTON (GREEN) */
+.add-btn {
+  background: linear-gradient(135deg, #00c853, #64dd17);
+}
+
+.add-btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+/* REMOVE BUTTON (RED) */
+.remove-btn {
+  background: linear-gradient(135deg, #ff416c, #ff4b2b);
+}
+
+.remove-btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+.cart-btn:hover {
+  transform: scale(1.05);
+  opacity: 0.9;
+}
+
+.cart-btn:active {
+  transform: scale(0.97);
+}

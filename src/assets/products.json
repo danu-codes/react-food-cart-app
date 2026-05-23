@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "foodName": "Cheese Burger",
+    "amount": 850,
+    "shopName": "Burger House",
+    "foodType": "Fast Food",
+    "pic": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 2,
+    "foodName": "Chicken Pizza",
+    "amount": 1500,
+    "shopName": "Pizza Hub",
+    "foodType": "Fast Food",
+    "pic": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 3,
+    "foodName": "Fried Rice",
+    "amount": 700,
+    "shopName": "Rice Corner",
+    "foodType": "Asian",
+    "pic": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 4,
+    "foodName": "Noodles",
+    "amount": 650,
+    "shopName": "Noodle Bar",
+    "foodType": "Asian",
+    "pic": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 5,
+    "foodName": "Ice Cream Sundae",
+    "amount": 500,
+    "shopName": "Sweet Treats",
+    "foodType": "Dessert",
+    "pic": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 6,
+    "foodName": "Chocolate Cake",
+    "amount": 1200,
+    "shopName": "Cake World",
+    "foodType": "Dessert",
+    "pic": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 7,
+    "foodName": "Tacos",
+    "amount": 900,
+    "shopName": "Mex Kitchen",
+    "foodType": "Mexican",
+    "pic": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 8,
+    "foodName": "Sushi Platter",
+    "amount": 2000,
+    "shopName": "Tokyo Dine",
+    "foodType": "Japanese",
+    "pic": "https://images.unsplash.com/photo-1553621042-f6e147245754?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 9,
+    "foodName": "Pasta Alfredo",
+    "amount": 1100,
+    "shopName": "Italiano",
+    "foodType": "Italian",
+    "pic": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 11,
+    "foodName": "Grilled Chicken",
+    "amount": 1300,
+    "shopName": "Grill Master",
+    "foodType": "Grilled",
+    "pic": "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 12,
+    "foodName": "Beef Steak",
+    "amount": 2500,
+    "shopName": "Steak House",
+    "foodType": "Continental",
+    "pic": "https://images.unsplash.com/photo-1558030006-450675393462?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 13,
+    "foodName": "Paneer Butter Masala",
+    "amount": 950,
+    "shopName": "Spice Garden",
+    "foodType": "Indian",
+    "pic": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 14,
+    "foodName": "Kottu Roti",
+    "amount": 800,
+    "shopName": "Lanka Eats",
+    "foodType": "Sri Lankan",
+    "pic": "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 15,
+    "foodName": "Milkshake",
+    "amount": 450,
+    "shopName": "Cool Drinks",
+    "foodType": "Beverage",
+    "pic": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 16,
+    "foodName": "Salad Bowl",
+    "amount": 650,
+    "shopName": "Healthy Bite",
+    "foodType": "Healthy",
+    "pic": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 17,
+    "foodName": "Donuts",
+    "amount": 550,
+    "shopName": "Sweet Circle",
+    "foodType": "Dessert",
+    "pic": "https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500&auto=format&fit=crop",
+    "latest": "no"
+  },
+  {
+    "id": 18,
+    "foodName": "Biryani",
+    "amount": 1400,
+    "shopName": "Royal Biryani",
+    "foodType": "Indian",
+    "pic": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  },
+  {
+    "id": 20,
+    "foodName": "Fish Curry",
+    "amount": 1000,
+    "shopName": "Seafood Corner",
+    "foodType": "Sri Lankan",
+    "pic": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?w=500&auto=format&fit=crop",
+    "latest": "yes"
+  }
+]

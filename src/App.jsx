@@ -1,3 +1,4 @@
+import { Navigate } from 'react-router-dom';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import './App.css'
 import { Header } from './components/Header'
@@ -15,7 +16,8 @@ function App() {
         <div className="container">
            <Routes>
             <Route path="/" element={<Home/>}/>
-            <Route path="/Cart" element={<ViewCart/>}/>
+            <Route path="/cart" element={<ViewCart/>}/>
+            <Route path="*" element={<Navigate to="/" />} />
            </Routes>
         </div></BrowserRouter>
     </cartContext.Provider>
